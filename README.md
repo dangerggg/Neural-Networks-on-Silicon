@@ -10,7 +10,8 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2016: [ISSCC](#2016-isscc), [ISCA](#2016-isca), [MICRO](#2016-micro), [HPCA](#2016-hpca), [DAC](#2016-dac), [FPGA](#2016-fpga), [ICCAD](#2016-iccad), [DATE](#2016-date), [ASPDAC](#2016-aspdac), [VLSI](#2016-vlsi), [FPL](#2016-fpl)
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
-   - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [ASPDAC](#2019-aspdac)
+   - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
+   - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -566,7 +567,148 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - DynaSprint: Microarchitectural Sprints with Dynamic Utility and Thermal Management. (Waterloo, ARM, Duke)
 - MEDAL: Scalable DIMM based Near Data Processing Accelerator for DNA Seeding Algorithm. (UCSB, ICT)
 - Tigris: Architecture and Algorithms for 3D Perception in Point Clouds. (Rochester)
+- ASV: Accelerated Stereo Vision System. (Rochester)
 - Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach. (UCSB, ICT)
+
+### 2019 ICCAD
+- **Zac: Towards Automatic Optimization and Deployment of Quantized Deep Neural Networks on Embedded Devices.** (PKU)
+- **NAIS: Neural Architecture and Implementation Search and its Applications in Autonomous Driving.** (UIUC)
+- **MAGNet: A Modular Accelerator Generator for Neural Networks.** (NVIDIA)
+- **ReDRAM: A Reconfigurable Processing-in-DRAM Platform for Accelerating Bulk Bit-Wise Operations.** (ASU)
+- **Accelergy: An Architecture-Level Energy Estimation Methodology for Accelerator Designs.** (MIT)
+
+### 2019 ASSCC
+- **A 47.4µJ/epoch Trainable Deep Convolutional Neural Network Accelerator for In-Situ Personalization on Smart Devices.** (KAIST)
+- **A 2.25 TOPS/W Fully-Integrated Deep CNN Learning Processor with On-Chip Training.** (NTU)
+- **A Sparse-Adaptive CNN Processor with Area/Performance Balanced N-Way Set-Associate Pe Arrays Assisted by a Collision-Aware Scheduler.** (THU, Northeastern)
+- A 24 Kb Single-Well Mixed 3T Gain-Cell eDRAM with Body-Bias in 28 nm FD-SOI for Refresh-Free DSP Applications. (EPFL)
+
+### 2019 VLSI
+- **Area-Efficient and Variation-Tolerant In-Memory BNN Computing Using 6T SRAM Array.** (POSTECH)
+- **A 5.1pJ/Neuron 127.3us/Inference RNN-Based Speech Recognition Processor Using 16 Computingin-Memory SRAM Macros in 65nm CMOS.** (THU, NTU, TsingMicro)
+- **A 0.11 pJ/Op, 0.32-128 TOPS, Scalable, Multi-ChipModule-Based Deep Neural Network Accelerator with Ground-Reference Signaling in 16nm.** (NVIDIA)
+- **SNAP: A 1.67 – 21.55TOPS/W Sparse Neural Acceleration Processor for Unstructured Sparse Deep Neural Network Inference in 16nm CMOS.** (UMich, NVIDA)
+- **A Full HD 60 fps CNN Super Resolution Processor with Selective Caching based Layer Fusion for Mobile Devices.** (KAIST)
+- **A 1.32 TOPS/W Energy Efficient Deep Neural Network Learning Processor with Direct Feedback Alignment based Heterogeneous Core Architecture.** (KAIST)
+- Considerations of Integrating Computing-In-Memory and Processing-In-Sensorinto Convolutional Neural Network Accelerators for Low-Power Edge Devices. (NTU, NCHU)
+- Computational Memory-Based Inference and Training of Deep Neural Networks. (IBM, EPFL, ETHZ, et al)
+- A Ternary Based Bit Scalable, 8.80 TOPS/W CNN A95Accelerator with Many-Core Processing-in-Memory Architecture with 896K Synapses/mm2. (Renesas)
+- In-Memory Reinforcement Learning with ModeratelyStochastic Conductance Switching of Ferroelectric Tunnel Junctions. (Toshiba)
+
+### 2019 HotChips
+- **MLPerf: A Benchmark Suite for Machine Learning from an Academic-Industry Cooperative.** (MLPerf)
+- **Zion: Facebook Next-Generation Large-memory Unified Training Platform.** (Facebook)
+- **A Scalable Unified Architecture for Neural Network Computing from Nano-Level to High Performance Computing.** (Huawei)
+- **Deep Learning Training at Scale – Spring Crest Deep Learning Accelerator.** (Intel)
+- **Spring Hill – Intel’s Data Center Inference Chip.** (Intel)
+- **Wafer Scale Deep Learning.** (Cerebras)
+- **Habana Labs Approach to Scaling AI Training.** (Habana)
+- **Ouroboros: A WaveNet Inference Engine for TTS Applications on Embedded Devices.** (Alibaba)
+- **A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology.** (NVIDIA)
+- **Xilinx Versal/AI Engine.** (Xilinx)
+- A Programmable Embedded Microprocessor for Bit-scalable In-memory Computing. (Princeton)
+
+### 2019 FPGA
+- **Synetgy: Algorithm-hardware Co-design for ConvNet Accelerators on Embedded FPGAs.** (THU, Berkeley, Politecnico di Torino, Xilinx)
+- **REQ-YOLO: A Resource-Aware, Efficient Quantization Framework for Object Detection on FPGAs.** (PKU, Northeastern）
+- **Reconfigurable Convolutional Kernels for Neural Networks on FPGAs.** (University of Kassel)
+- **Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity.** (Harbin Institute of Technology, Microsoft, THU, Beihang)
+- **Cloud-DNN: An Open Framework for Mapping DNN Models to Cloud FPGAs.** (Advanced Digital Sciences Center, UIUC)
+- F5-HD: Fast Flexible FPGA-based Framework for Refreshing Hyperdimensional Computing. (UCSD)
+- Xilinx Adaptive Compute Acceleration Platform: Versal Architecture. (Xilinx)
+
+### 2020 ISSCC
+- **A 3.4-to-13.3TOPS/W 3.6TOPS Dual-Core Deep-Learning Accelerator for Versatile AI Applications in 7nm 5G Smartphone SoC.** (MediaTek)
+- **A 12nm Programmable Convolution-Efficient Neural-Processing-Unit Chip Achieving 825TOPS.** (Alibaba)
+- **STATICA: A 512-Spin 0.25M-Weight Full-Digital Annealing Processor with a Near-Memory All-SpinUpdates-at-Once Architecture for Combinatorial Optimization with Complete Spin-Spin Interactions.** (Tokyo Institute of Technology, Hokkaido Univ., Univ. of Tokyo)
+- **GANPU: A 135TFLOPS/W Multi-DNN Training Processor for GANs with Speculative Dual-Sparsity Exploitation.** (KAIST)
+- **A 510nW 0.41V Low-Memory Low-Computation Keyword-Spotting Chip Using Serial FFT-Based MFCC and Binarized Depthwise Separable Convolutional Neural Network in 28nm CMOS.** (Southeast, EPFL, Columbia)
+- **A 65nm 24.7μJ/Frame 12.3mW Activation-Similarity Aware Convolutional Neural Network Video Processor Using Hybrid Precision, Inter-Frame Data Reuse and Mixed-Bit-Width Difference-Frame Data Codec.** (THU)
+- **A 65nm Computing-in-Memory-Based CNN Processor with 2.9-to-35.8TOPS/W System Energy Efficiency Using Dynamic-Sparsity Performance-Scaling Architecture and Energy-Efficient Inter/Intra-Macro Data Reuse.** (THU, NTHU)
+- A 28nm 64Kb Inference-Training Two-Way Transpose Multibit 6T SRAM Compute-in-Memory Macro for AI Edge Chips. (NTU)
+- A 351TOPS/W and 372.4GOPS Compute-in-Memory SRAM Macro in 7nm FinFET CMOS for Machine-Learning Applications. (TSMC)
+- A 22nm 2Mb ReRAM Compute-in-Memory Macro with 121-28TOPS/W for Multibit MAC Computing for Tiny AI Edge Devices. (NTHU)
+- A 28nm 64Kb 6T SRAM Computing-in-Memory Macro with 8b MAC Operation for AI Edge Chips. (NTHU)
+- A 1.5μJ/Task Path-Planning Processor for 2D/3D Autonomous Navigation of Micro Robots. (NTHU)
+- A 65nm 8.79TOPS/W 23.82mW Mixed-Signal Oscillator-Based NeuroSLAM Accelerator for Applications in Edge Robotics. (Georgia Tech)
+- CIM-Spin: A 0.5-to-1.2V Scalable Annealing Processor Using Digital Compute-In-Memory Spin Operators and Register-Based Spins for Combinatorial Optimization Problems. (NTU)
+- A Compute-Adaptive Elastic Clock-Chain Technique with Dynamic Timing Enhancement for 2D PE-Array-Based Accelerators. (Northwestern)
+- A 74 TMACS/W CMOS-RRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-situ Transposable Weights for Probabilistic Graphical Models. (Stanford, UCSD, THU, Notre Dame)
+- A Fully Integrated Analog ReRAM Based 78.4TOPS/W Compute-In-Memory Chip with Fully Parallel MAC Computing. (THU, NTHU)
+
+### 2020 HPCA
+- **Deep Learning Acceleration with Neuron-to-Memory Transformation.**	(UCSD)
+- **HyGCN: A GCN Accelerator with Hybrid Architecture.**	(ICT, UCSB)
+- **SIGMA: A Sparse and Irregular GEMM Accelerator with Flexible Interconnects for DNN Training.**	(Georgia Tech)
+- **PREMA: A Predictive Multi-task Scheduling Algorithm For Preemptible NPUs.**	(KAIST)
+- **ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator.**	(Georgia Tech)
+- **SpArch: Efficient Architecture for Sparse Matrix Multiplication.**	(MIT, NVIDIA)
+- **A3: Accelerating Attention Mechanisms in Neural Networks with Approximation.**	(SNU)
+- **AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerator Arrays.**	(Duke, USC)
+- **PIXEL: Photonic Neural Network Accelerator.**	(Ohio, George Washington)
+- **The Architectural Implications of Facebook’s DNN-based Personalized Recommendation.**	(Facebook)
+- **Enabling Highly Efficient Capsule Networks Processing Through A PIM-Based Architecture Design.**	(Houston)
+- **Missing the Forest for the Trees: End-to-End AI Application Performance in Edge Data.**	(UT Austin, Intel)
+- **Communication Lower Bound in Convolution Accelerators.**	(ICT, THU)
+- **Fulcrum: a Simplified Control and Access Mechanism toward Flexible and Practical in-situ Accelerators.**	(Virginia, UCSB, Micron)
+- **EFLOPS: Algorithm and System Co-design for a High Performance Distributed Training Platform.**	(Alibaba)
+- **Experiences with ML-Driven Design: A NoC Case Study.**	(AMD)
+- **Tensaurus: A Versatile Accelerator for Mixed Sparse-Dense Tensor Computations.**	(Cornell, Intel)
+- **A Hybrid Systolic-Dataflow Architecture for Inductive Matrix Algorithms.**	(UCLA)
+- A Deep Reinforcement Learning Framework for Architectural Exploration: A Routerless NoC Case Study.	(USC, OSU)
+- QuickNN: Memory and Performance Optimization of k-d Tree Based Nearest Neighbor Search for 3D Point Clouds.	(Umich, General Motors)
+- Orbital Edge Computing: Machine Inference in Space.	(CMU)
+- A Scalable and Efficient in-Memory Interconnect Architecture for Automata Processing.	(Virginia)
+- Techniques for Reducing the Connected-Standby Energy Consumption of Mobile Devices.	(ETHZ, Cyprus, CMU)
+
+### 2020 ASPLOS
+- **Shredder: Learning Noise Distributions to Protect Inference Privacy.**	(UCSD)
+- **DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks.**	(CAS, USC)
+- **Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators.**	(Stanford, THU)
+- **DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints.**	(UCSB)
+- **Prague: High-Performance Heterogeneity-Aware Asynchronous Decentralized Training.**	(USC)
+- **PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning.**	(College of William and Mary, Northeastern , USC)
+- **Capuchin: Tensor-based GPU Memory Management for Deep Learning.**	(HUST, MSRA, USC)
+- **NeuMMU: Architectural Support for Efficient Address Translations in Neural Processing Units.**	(KAIST)
+- **FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System.**	(PKU)
+
+### 2020 DAC
+- **A Pragmatic Approach to On-device Incremental Learning System with Selective Weight Updates.**
+- **A Two-way SRAM Array based Accelerator for Deep Neural Network On-chip Training.**
+- **Algorithm-Hardware Co-Design for In-Memory Neural Network Computing with Minimal Peripheral Circuit Overhead.**
+- **Algorithm-Hardware Co-Design of Adaptive Floating-Point Encodings for Resilient Deep Learning Inference.**
+- **Hardware Acceleration of Graph Neural Networks.**
+- **Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training.**
+- **Low-Power Acceleration of Deep Neural Network Training Using Computational Storage Devices.**
+- **Prediction Confidence based Low Complexity Gradient Computation for Accelerating DNN Training.**
+- **SparseTrain: Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training.**
+- **SCA: A Secure CNN Accelerator for both Training and Inference.**
+- **STC: Significance-aware Transform-based Codec Framework for External Memory Access Reduction.**
+
+### 2020 FPGA
+- **AutoDNNchip: An Automated DNN Chip Generator through Compilation, Optimization, and Exploration.** （Rice, UIUC)
+- **Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms.** (USC)
+- Massively Simulating Adiabatic Bifurcations with FPGA to Solve Combinatorial Optimization. (Central Florida)
+
+### 2020 ISCA
+- **Data Compression Accelerator on IBM POWER9 and z15 Processors.** (IBM)
+- **High-Performance Deep-Learning Coprocessor Integrated into x86 SoC with Server-Class CPUs.**	(Centaur )
+- **Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workloads.** (Groq)
+- **MLPerf Inference: A Benchmarking Methodology for Machine Learning Inference Systems.**	
+- **A Multi-Neural Network Acceleration Architecture.** (SNU)
+- **SmartExchange: Trading Higher-Cost Memory Storage/Access for Lower-Cost Computation.** (Rice, TAMU, UCSB)
+- **Centaur: A Chiplet-Based, Hybrid Sparse-Dense Accelerator for Personalized Recommendations.** (KAIST)
+- **DeepRecSys: A System for Optimizing End-to-End At-Scale Neural Recommendation Inference.**	(Facebook, Harvard)
+- **An In-Network Architecture for Accelerating Shared-Memory Multiprocessor Collectives.**	(NVIDIA)
+- **DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration.**	(SJTU)
+- The IBM z15 High Frequency Mainframe Branch Predictor. (ETHZ)
+- Déjà View: Spatio-Temporal Compute Reuse for Energy-Efficient 360° VR Video Streaming. (Penn State)
+- uGEMM: Unary Computing Architecture for GEMM Applications. (Wisconsin)
+- Gorgon: Accelerating Machine Learning from Relational Data. (Stanford)
+- RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing. (Facebook)
+- JPEG-ACT: Accelerating Deep Learning via Transform-Based Lossy Compression. (UBC)
+- Commutative Data Reordering: A New Technique to Reduce Data Movement Energy on Sparse Inference Workloads. (Sandia, Rochester)
+- Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training. (Toronto, Intel)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
